@@ -7,6 +7,7 @@ from account import start_account
 
 
 def main():
+    print('Wellcome to console FileManager!')
     # print(os.getcwd())
     # exit()
 
